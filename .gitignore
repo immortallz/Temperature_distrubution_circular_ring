@@ -1,0 +1,10 @@
+godun.pdf
+Anderson_t2.pdf
+
+output_results/
+
+*.png
+pics/
+
+.vscode/
+.ipynb_checkpoints/
